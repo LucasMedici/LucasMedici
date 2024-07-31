@@ -1,5 +1,5 @@
 <h2 align='center'> Olá, eu me chamo Lucas 👋 </h2>
-<h4 align='center'> Tenho 20 anos e atualmente estou cursando o 5ºSemestre de desenvolvimento de Software Multiplataforma na FATEC de São José dos Campos. </h4>
+<h4 align='center'> Tenho 20 anos e atualmente estou cursando o 6ºSemestre de desenvolvimento de Software Multiplataforma na FATEC de São José dos Campos. </h4>
 <div align="center">
   <a href="https://github.com/LucasMedici">
   <img height="180em" src="https://github-readme-stats-murex-two-62.vercel.app/api?username=LucasMedici&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
