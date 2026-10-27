@@ -1,11 +1,14 @@
-## Hi, I'm Lucas 👋
+# Hi, I'm Lucas 👋
 
-**Software Engineer** · Brazil 🇧🇷<br>
+**Software Engineer** · Brazil 🇧🇷
+
 Designing systems. Building solutions. Shipping software.
 
 <a href="https://lucasmedici.vercel.app"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
 <a href="https://www.linkedin.com/in/lucasmedici"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
 <a href="mailto:lucasrpmedici@gmail.com"><img src="https://img.shields.io/badge/-lucasrpmedici@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br>
 
 ### About me
 
