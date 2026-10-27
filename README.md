@@ -48,6 +48,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasMedici/LucasMedici/main/profile/stats-dark.svg">
-    <img height="165" alt="Lucas's GitHub stats" src="https://raw.githubusercontent.com/LucasMedici/LucasMedici/main/profile/stats-light.svg">
+    <img alt="Lucas's GitHub stats" src="https://raw.githubusercontent.com/LucasMedici/LucasMedici/main/profile/stats-light.svg">
   </picture>
 </p>
