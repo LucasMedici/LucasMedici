@@ -1,20 +1,11 @@
-<h1 align="center">Hi, I'm Lucas 👋</h1>
+## Hi, I'm Lucas 👋
 
-<p align="center">
-  <em>Software Engineer • Brazil 🇧🇷</em>
-</p>
+**Software Engineer** · Brazil 🇧🇷<br>
+Designing systems. Building solutions. Shipping software.
 
-<p align="center">
-  Designing systems. Building solutions. Shipping software.
-</p>
-
-<p align="center">
-  <a href="https://lucasmedici.vercel.app"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/lucasmedici"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:lucasrpmedici@gmail.com"><img src="https://img.shields.io/badge/-lucasrpmedici@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
+<a href="https://lucasmedici.vercel.app"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
+<a href="https://www.linkedin.com/in/lucasmedici"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
+<a href="mailto:lucasrpmedici@gmail.com"><img src="https://img.shields.io/badge/-lucasrpmedici@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 ### About me
 
@@ -45,9 +36,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasMedici/LucasMedici/main/profile/stats-dark.svg">
-    <img alt="Lucas's GitHub stats" src="https://raw.githubusercontent.com/LucasMedici/LucasMedici/main/profile/stats-light.svg">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasMedici/LucasMedici/main/profile/stats-dark.svg">
+  <img alt="Lucas's GitHub stats" src="https://raw.githubusercontent.com/LucasMedici/LucasMedici/main/profile/stats-light.svg">
+</picture>
