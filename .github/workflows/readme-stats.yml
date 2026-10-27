@@ -17,7 +17,7 @@ jobs:
     env:
       # STATS_TOKEN (PAT with read:user + repo) includes private contributions; falls back to public data only
       TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
-      STATS_OPTS: username=LucasMedici&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true
+      STATS_OPTS: username=LucasMedici&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true&hide=contribs&hide_rank=true
     steps:
       - uses: actions/checkout@v6
 
