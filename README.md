@@ -1,44 +1,53 @@
-<h2 align="center">Olá, eu me chamo Lucas 👋</h2>
-<h4 align="center">
-Sou desenvolvedor backend, formado em Desenvolvimento de Software Multiplataforma pela FATEC de São José dos Campos.
-</h4>
-<div align="center">
-  <a href="https://github.com/LucasMedici">
-  <img height="180em" src="https://github-readme-stats-murex-two-62.vercel.app/api?username=LucasMedici&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMedici&layout=compact&langs_count=7&theme=dark"/> -->
-</div>
+<h1 align="center">Hi, I'm Lucas 👋</h1>
 
-<div align='center'><br>
-  <h4>Conhecimentos em:</h4>
+<p align="center">
+  <em>Software Engineer • Brazil 🇧🇷</em>
+</p>
 
-  <!-- Backend Core -->
-  <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Hibernate/JPA-59666C?style=for-the-badge"/></a>
+<p align="center">
+  Designing systems. Building solutions. Shipping software.
+</p>
 
-  <!-- Backend Complementar -->
-  <a><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<p align="center">
+  <a href="https://lucasmedici.vercel.app"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/lucasmedici"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:lucasrpmedici@gmail.com"><img src="https://img.shields.io/badge/-lucasrpmedici@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-  <!-- Infra / Ambiente -->
-  <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-  <a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+---
 
-  <!-- Dados & Tooling -->
-  <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/></a>
-  <a><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
+### About me
 
-</div>
+- 💼 Lead Developer & Project Manager at **Nexus GeoEngenharia**, building backend systems and web apps for water network management
+- 🎯 Product-minded: I think beyond the code, about the final product, the people using it and how it sells
+- 🎓 Multiplatform Software Development @ FATEC São José dos Campos
+- ⚽ Outside of code: football, games and small side projects
 
-##
+### Projects
 
-<div align='center'>
- <h4>Contatos:</h4>
- <a href="https://www.linkedin.com/in/lucas-medici-a15971237/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="mailto:lucasrpmedici@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+- 💸 **[Jorge](https://github.com/LucasMedici/jorge-finance-assistant)** — personal finance, as simple as a conversation. React Native, Node.js, Prisma, OpenAI
+- 🎬 **[Video Streaming Platform](https://github.com/LucasMedici/video-streaming-platform)** — Java 21 + Spring Boot, async processing with RabbitMQ, HLS transcoding with FFmpeg
+- 🌱 **[AgroVision](https://github.com/AgroVision-Fatec)** — AI-powered pest monitoring for agricultural traps: YOLOv8 computer vision, GPS geolocation, offline sync and real-time dashboards. React Native, NestJS, Python
+
+<sub>…and more on my [website](https://lucasmedici.vercel.app/#projects) and [repositories](https://github.com/LucasMedici?tab=repositories).</sub>
+
+### Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasMedici/LucasMedici/main/profile/stats-dark.svg">
+    <img height="165" alt="Lucas's GitHub stats" src="https://raw.githubusercontent.com/LucasMedici/LucasMedici/main/profile/stats-light.svg">
+  </picture>
+</p>
